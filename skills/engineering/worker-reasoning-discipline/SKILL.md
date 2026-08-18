@@ -2,7 +2,7 @@
 name: worker-reasoning-discipline
 description: "Worker reasoning: restate, audit, settle, verify, cover."
 version: 1.0.0
-author: Bane + Hermes
+author: Carter LaSalle
 license: MIT
 platforms: [linux]
 metadata:

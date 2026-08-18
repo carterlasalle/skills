@@ -2,7 +2,7 @@
 name: ci-fix-dont-freeze
 description: "Fix CI errors as clues of unfinished, unwired, broken code."
 version: 1.0.0
-author: Bane + Hermes
+author: Carter LaSalle
 license: MIT
 platforms: [linux]
 metadata:
