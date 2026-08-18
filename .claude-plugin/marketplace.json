@@ -1,0 +1,23 @@
+{
+  "name": "carterlasalle",
+  "owner": {
+    "name": "Carter LaSalle",
+    "url": "https://github.com/carterlasalle"
+  },
+  "description": "Carter's independent skills for real engineering, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "carterlasalle-skills",
+      "source": "./",
+      "description": "Carter's agent skills — fix-don't-freeze CI discipline, worker reasoning checks, and the j-space reasoning suite.",
+      "category": "engineering",
+      "keywords": [
+        "engineering",
+        "skills",
+        "ci",
+        "lint",
+        "reasoning"
+      ]
+    }
+  ]
+}

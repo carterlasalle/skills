@@ -1,0 +1,3 @@
+interface:
+  display_name: "Worker Reasoning Discipline"
+  short_description: "Restate, seam-audit, mark-settle, verify-before-done, coverage"

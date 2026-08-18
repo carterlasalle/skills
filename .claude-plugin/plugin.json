@@ -1,0 +1,25 @@
+{
+  "name": "carterlasalle-skills",
+  "version": "1.0.0",
+  "description": "Carter's agent skills — fix-don't-freeze CI discipline, worker reasoning checks, and the j-space reasoning suite.",
+  "author": {
+    "name": "Carter LaSalle",
+    "url": "https://github.com/carterlasalle"
+  },
+  "homepage": "https://github.com/carterlasalle/skills",
+  "repository": "https://github.com/carterlasalle/skills",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "skills",
+    "ci",
+    "lint",
+    "type-check",
+    "reasoning"
+  ],
+  "skills": [
+    "./skills/engineering/ci-fix-dont-freeze",
+    "./skills/engineering/worker-reasoning-discipline",
+    "./skills/engineering/j-space"
+  ]
+}

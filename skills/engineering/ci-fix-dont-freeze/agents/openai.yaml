@@ -1,0 +1,3 @@
+interface:
+  display_name: "CI Fix — Don't Freeze"
+  short_description: "Fix CI/lint/type errors as clues, not nuisances"

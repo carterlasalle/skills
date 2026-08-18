@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "groupings": [
+    {
+      "title": "Engineering",
+      "skills": [
+        "ci-fix-dont-freeze",
+        "worker-reasoning-discipline",
+        "j-space"
+      ]
+    }
+  ]
+}
